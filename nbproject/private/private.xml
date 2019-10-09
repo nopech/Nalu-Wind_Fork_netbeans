@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>4</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="7">
+        <file>
+            <url>file:/home/raphi/projects/Nalu-Wind_Fork/src/Realm.C</url>
+            <bookmark id="2">
+                <name/>
+                <line>496</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>4407</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/home/raphi/projects/Nalu-Wind_Fork/include/master_element/MasterElementHO.h</url>
+            <bookmark id="7">
+                <name/>
+                <line>143</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name/>
+                <line>248</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/home/raphi/projects/Nalu-Wind_Fork/src/element_promotion/PromoteElement.C</url>
+            <bookmark id="3">
+                <name/>
+                <line>108</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>file:/home/raphi/projects/Nalu-Wind_Fork/src/master_element/MasterElementHO.C</url>
+            <bookmark id="6">
+                <name/>
+                <line>455</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/nalu.C</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/src/master_element/MasterElementHO.C</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/include/element_promotion/TensorProductQuadratureRule.h</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/src/master_element/Tri32DCVFEM.C</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/src/element_promotion/TensorProductQuadratureRule.C</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/src/AssembleScalarElemDiffSolverAlgorithm.C</file>
+            <file>file:/home/raphi/projects/Nalu-Wind_Fork/include/master_element/Tri32DCVFEM.h</file>
+        </group>
+    </open-files>
+</project-private>
